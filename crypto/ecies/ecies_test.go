@@ -39,8 +39,6 @@ import (
 	"fmt"
 	"math/big"
 	"testing"
-
-	"github.com/wanchain/go-wanchain/crypto"
 )
 
 var dumpEnc bool
