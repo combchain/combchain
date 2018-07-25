@@ -37,7 +37,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/wanchain/go-wanchain/common/math"
+	"github.com/combchain/combchain/common/math"
 )
 
 /*
